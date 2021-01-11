@@ -1,6 +1,6 @@
 # ASLInterpreter
 
-### This project recieved the first place prize at the 2021 Western Engineering Competition - Innovation!
+### 🥇 This project recieved the first place prize at the 2021 Western Engineering Competition - Innovation!
 
 ## Presentations:
 ### Our Slidedeck: [Click Here](https://github.com/Waleed101/WeSign/blob/main/WEC%20Slidedeck.pdf)  

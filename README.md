@@ -2,6 +2,8 @@
 
 ### 🥇 This project recieved the first place prize at the 2021 Western Engineering Competition - Innovation!
 
+### 🥉 This project recieved the third place prize at the 2021 Ontario Engineering Competition - Innovation!
+
 ## Presentations:
 ### Our Slidedeck: [Click Here](https://github.com/Waleed101/WeSign/blob/main/WEC%20Slidedeck.pdf)  
 ### Full Video Presentation [Click Here](https://drive.google.com/file/d/18y38cJPxd5f9ArmlSu2WiaF86hFUK3j6/view)
